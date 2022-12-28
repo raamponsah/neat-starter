@@ -16,6 +16,8 @@ tags:
 
 ###### This is a Heading h6
 
+![](/static/img/pexels-phil-kallahar-983200.jpg)
+
 ## Emphasis
 
 *This text will be italic*\
